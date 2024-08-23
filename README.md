@@ -1,0 +1,2 @@
+# Data-Analytics-Portfolio
+ This repository contains my data analytics projects showcasing my expertise in Power BI, Excel, Tableau, and SQL. The projects include interactive dashboards, data visualizations, and complex data analysis that demonstrate my skills in extracting meaningful insights from large datasets. Each project is organized into its respective folder with detailed documentation and associated files.
